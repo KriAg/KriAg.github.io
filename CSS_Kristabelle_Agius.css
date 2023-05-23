@@ -182,6 +182,7 @@
      } 
   
        iframe {
+          position: left;
         margin-top: 50px;
         margin-left: 600px;
        } 
